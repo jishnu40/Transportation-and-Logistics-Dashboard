@@ -69,7 +69,3 @@ Watch the project walkthrough on LinkedIn:
 🎓 M.Sc. Computer Science | 🎯 Aspiring Data Analyst | 💼 Power BI Developer  
 📧 [jishnuts40@gmail.com || https://www.linkedin.com/posts/jishnu-t-s-8106371b0_20e2e7-powerbi-dataanalytics-activity-7376196520607592448-mdvK?utm_source=share&utm_medium=member_desktop&rcm=ACoAADE3LswBla0j0Eflx2O9yRP4n-roCwQtktk]
 
----
-
-### 🏷️ Tags
-`#PowerBI` `#DataAnalytics` `#BusinessIntelligence` `#Logistics` `#DashboardDesign` `#DataVisualization`
